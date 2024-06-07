@@ -1,3 +1,7 @@
+Links: https://wokwi.com/projects/400047402942026753
+youtube: https://youtu.be/dUSAE3XGNFg
+Integrante: Israel Araujo Henriques de Moura - RM: 559068
+
 ### README
 
 # Projeto Caronte: Boias de Análise, Monitoramento e Gestão Sustentável dos Oceanos
@@ -185,3 +189,20 @@ void loop() {
 
 1. **Monitoramento Eficiente**: Dados em tempo real sobre as condições dos oceanos.
 2. **Limpeza Automática**: Drones marítimos autônomos para coleta de resíduos plásticos e outros detritos
+
+.
+3. **Políticas Sustentáveis**: Dados precisos para a formulação de políticas ambientais.
+
+### Impacto
+
+- **Redução da Poluição**: Menor quantidade de resíduos plásticos nos oceanos.
+- **Preservação da Biodiversidade**: Melhor qualidade da água e habitats mais saudáveis.
+- **Conscientização Pública**: Maior compreensão e apoio à preservação dos oceanos.
+
+## Contribuições
+
+Se você deseja contribuir com este projeto, sinta-se à vontade para fazer um fork e enviar um pull request com suas melhorias ou novas funcionalidades.
+
+## Licença
+
+Este projeto é licenciado sob a licença MIT.
